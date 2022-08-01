@@ -1,16 +1,16 @@
-### Hi there 👋
+Sup!
 
-<!--
-**Weytaricla/Weytaricla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Middle QA Engineer
+- Trainee Automation QA)
 
-Here are some ideas to get you started:
+Stack:
+- Python + Selenium
+- Postman
+- Charles/Fiddler
+- SQL
+- 1yr exp of testing web- and mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other:
+- HTML, CSS
+- JavaScript
+- PHP (mvc, YII2)
