@@ -1,10 +1,11 @@
-Sup!
-
-![image](https://user-images.githubusercontent.com/58269256/182179508-f5dd4f74-c398-4257-9f16-70da30d3c4cd.png)
+(>^_^)> <(^_^<)
+Sup!🤩
 
 Something about me:
 - Middle QA Engineer
 - Trainee Automation QA)
+
+｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ 
 
 Stack:
 - Python + Selenium
@@ -17,3 +18,5 @@ Other:
 - HTML, CSS
 - JavaScript
 - PHP (mvc, YII2)
+
+<img src="https://user-images.githubusercontent.com/58269256/182180747-17a135ce-0b58-4146-bcde-227b5a8c4c5c.png" width="250px">
