@@ -1,5 +1,5 @@
 Sup!
-
+Something about me:
 - Middle QA Engineer
 - Trainee Automation QA)
 
