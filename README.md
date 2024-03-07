@@ -11,11 +11,7 @@ Stack:
 - Postman
 - Charles/Fiddler
 - SQL
-- 1+yr exp of testing web- and mobile apps
-
-Other:
-- JavaScript
-- PHP
+- 2+yr exp of testing web- and mobile apps
 
 (>^_^)> <(^_^<)
 
