@@ -2,7 +2,7 @@ Sup!🤩
 
 Something about me:
 - Middle QA Engineer
-- Trainee Automation QA)
+- Junior Automation QA
 
 ｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ 
 
@@ -11,7 +11,7 @@ Stack:
 - Postman
 - Charles/Fiddler
 - SQL
-- 2+yr exp of testing web- and mobile apps
+- 3yrs exp of testing web- and mobile apps
 
 (>^_^)> <(^_^<)
 
