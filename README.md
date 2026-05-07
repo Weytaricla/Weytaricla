@@ -1,16 +1,10 @@
 Sup!🤩
 
-Something about me:
-- Middle+ manual QA Engineer
-- exp. of autotesting on Python
-
 ｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ 
 
-Stack:
-- Python + Selenium
-- Charles/Fiddler/Postman
-- SQL
-- 3+yrs exp. of testing web- and mobile apps
+Something about me:
+- manual QA Engineer
+- exp. of autotesting on Python
 
 (>^_^)> <(^_^<)
 
